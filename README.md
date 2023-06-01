@@ -10,7 +10,7 @@ Tudo certo por enquanto!
 https://challenge-FR-010-book-guide.vercel.app/
 
 ## 🖼️ Demonstração
-![demo](https://github.com/zaqueu-1/challenge-FR-010-book-guide/blob/main/github/https://raw.githubusercontent.com/zaqueu-1/challenge-FR-010-book-guide/main/github/demo.gif)
+![demo](https://raw.githubusercontent.com/zaqueu-1/challenge-FR-010-book-guide/main/github/demo.gif)
 
 ## ✍️ Sobre o autor
 Desenvolvedor front-end, Rio de Janeiro/RJ
